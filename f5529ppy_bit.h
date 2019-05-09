@@ -74,7 +74,7 @@ void UpdateEnemy(enemy_t * e);
 void SendEnemy(uint8_t val);
 
 /// stops the game and exits to subsystem
-void GameOver(void)e enemy;
+void GameOver(void);
 
 /**
  * removes an enemy from the game
